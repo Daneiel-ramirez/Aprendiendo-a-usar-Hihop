@@ -1,4 +1,4 @@
-# Aprendiendo-a-usar-Hihop
+# Aprendiendo-a-usar-Githop
 • Crear cuenta gratuita Github  • Leer tutorial de inicio: https://docs.github.com/es/github/getting -started-with-github  • Crear manual de uso en base a lo aprendido.  • Incluir al final resumen de cómo puedo usar Git/Github en mi vida académica o profesional.
 ¿Cómo se utiliza Github pages?
 GitHub es un sitio "social coding". Te permite subir repositorios de código para almacenarlo en el sistema de control de versiones Git. Tu puedes colaborar en proyectos de código, y el sistema es código abierto por defecto, lo que significa que cualquiera en el mundo puede encontrar tu código en GitHub, usarlo, aprender de el, y mejorarlo. ¡Tú puedes hacer eso con el código de otras personas tambien!
