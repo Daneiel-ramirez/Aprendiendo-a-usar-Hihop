@@ -8,7 +8,6 @@ Github es una comunidad muy importante y útil para involucrarse, y Git/GitHub e
 
 Configuración básica de Github
 Primero que todo, instala Git en tu máquina. Este es el software del sistema de control de versiones subyacente en el que GitHub funciona.
-Seguido, Regístrate para una cuenta de GitHub. Es simple y fácil.
 Una vez te hayas registrado, inicia sesión en github.com con tu nombre de usuario y contraseña.
 Preparando tu código para subirlo
 Tú puedes almacenar cualquier código que tu quieras en un repositorio de Github, pero para usar la característica páginas de Github con pleno efecto, tu código debe estar estructurado como un sitio web típico, por ejemplo que el punto de entrada primario sea un archivo HTML llamado index.html.
@@ -65,3 +64,7 @@ git push
 Puedes reemplazar otro commit con un mensaje más adecuado para describir qué cambio acaba de hacer.
 
 Apenas hemos arañado la superficie de Git.Para obtener más información, comience con el sitio de ayuda de GitHub.
+ Incluir al final resumen de cómo puedo
+usar Git/Github en mi vida académica o
+profesional.
+Creo que puedo utilizar Githop para  compartir codigo con mis compañeros en las tareas que nos vayan dejando  en nuestra paso en la Universidad, posteriormente en un ambiente laboral para faciliar la comunicación,.
